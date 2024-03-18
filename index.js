@@ -20,9 +20,9 @@ app.post("/bfhl", (req, res) => {
       throw new Error("Input must be an array");
     }
 
-    const user_id = "john_doe_17091999";
-    const email = "john@xyz.com";
-    const roll_number = "ABCD123";
+    const user_id = "love_vyas_2111981252";
+    const email = "	love1252.be21@chitkarauniversity.edu.in";
+    const roll_number = "2111981252";
     const even_numbers = [];
     const odd_numbers = [];
     const alphabets = [];
